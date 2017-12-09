@@ -1,0 +1,17 @@
+body {
+	font-family: 'Open Sans', sans-serif;
+	background-color: #2962FF;
+}
+
+.container {
+	background-color:#F5F5F5 ;
+}
+
+.jumbotron {
+	color: white;
+}
+
+.contact p {
+	line-height: 20px;
+	margin-bottom: 0px;
+}
